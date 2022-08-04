@@ -1,7 +1,7 @@
 # livroCSharp
 - Códigos e aprendizados do Livro C# Iniciantes.
 
-- 🚀 Colaboradores
+🚀 Colaboradores
 Esse projeto foi desenvolvido pela Comunidade para a Comunidade Técnica Brasileira. Abaixo segue as pessoas que contribuíram para o projeto:
 
 ✅ André Carlucci - RD & Global Director of Application Engineering
